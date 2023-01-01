@@ -1,0 +1,35 @@
+{
+  "name": "proton-theme",
+  "displayName": "Proton Theme",
+  "description": "A VSCode theme based on Atom",
+  "version": "1.0.0",
+  "publisher": "paulozaneripe",
+  "icon": "images/proton.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulozaneripe/Proton-Theme.git"
+  },
+  "keywords": [
+    "theme",
+    "atom",
+    "atom theme",
+    "proton",
+    "proton theme",
+    "dark theme"
+  ],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Proton Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Proton Theme-color-theme.json"
+      }
+    ]
+  }
+}
