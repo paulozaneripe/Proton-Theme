@@ -11,20 +11,20 @@
     "activityBarBadge.foreground": "#FFFFFF",
 
     // Badge
-    "badge.background": "#2C313A",
+    "badge.background": "#4D78CC",
     "badge.foreground": "#FFFFFF",
 
     // Base colors
     "errorForeground": "#FF6347",
-    "focusBorder": "#2C313A",
+    "focusBorder": "#21252b",
     "foreground": "#ABB2BF",
     "selection.background": "#ced2d9",
     "widget.shadow": "#181A1FFF",
 
     // Button
-    "button.background": "#2C313A",
+    "button.background": "#4D78CC",
     "button.foreground": "#FFFFFF",
-    "button.hoverBackground": "#424755",
+    "button.hoverBackground": "#426fc8",
 
     // Debug exception widget
     "debugExceptionWidget.background": "#252830",
@@ -127,12 +127,12 @@
     "input.border": "#181A1F",
     "input.foreground": "#D7DAE0",
     "input.placeholderForeground": "#6B727E",
-    "inputOption.activeBorder": "#2C313A",
+    "inputOption.activeBorder": "#5387F5",
     "inputValidation.errorBackground": "#312426",
     "inputValidation.errorBorder": "#FF6347",
     "inputValidation.errorForeground": "#D7DAE0",
     "inputValidation.infoBackground": "#21252B",
-    "inputValidation.infoBorder": "#2C313A",
+    "inputValidation.infoBorder": "#5387F5",
     "inputValidation.infoForeground": "#D7DAE0",
     "inputValidation.warningBackground": "#21252B",
     "inputValidation.warningBorder": "#E0C285",
@@ -179,7 +179,7 @@
     "peekViewResult.fileForeground": "#BDC0C7",
     "peekViewResult.lineForeground": "#BDC0C7",
     "peekViewResult.matchHighlightBackground": "#41537C",
-    "peekViewResult.selectionBackground": "#2C313A",
+    "peekViewResult.selectionBackground": "#4D78CC",
     "peekViewResult.selectionForeground": "#FFFFFF",
     "peekViewTitle.background": "#21252B",
     "peekViewTitleDescription.foreground": "#A0A8B9",
