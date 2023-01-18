@@ -2,7 +2,7 @@
   "name": "proton-theme",
   "displayName": "Proton Theme",
   "description": "A VSCode theme based on Atom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "paulozaneripe",
   "icon": "images/proton.png",
   "repository": {

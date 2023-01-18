@@ -225,8 +225,8 @@
     "statusBar.background": "#282c34",
     "statusBar.foreground": "#9da5b4",
     "statusBar.border": "#181A1F",
-    "statusBar.debuggingBackground": "#FF634788",
-    "statusBar.debuggingForeground": "#FFFFFF",
+    "statusBar.debuggingBackground": "#282c34",
+    "statusBar.debuggingForeground": "#9da5b4",
     "statusBar.debuggingBorder": "#181A1F",
     "statusBar.noFolderForeground": "#ced2d9",
     "statusBar.noFolderBackground": "#21252B",
@@ -237,6 +237,9 @@
     "statusBarItem.prominentHoverBackground": "#2C313A",
     "statusBarItem.remoteBackground": "#21252B",
     "statusBarItem.remoteForeground": "#ced2d9",
+
+    // Debug
+    "debugToolBar.background": "#21252b",
 
     // Tabs
     "tab.activeBackground": "#282C34",
